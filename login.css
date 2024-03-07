@@ -1,0 +1,43 @@
+* {
+    color:red;
+}
+
+body {
+    margin: 0;
+    background-color: gray;
+    height: 100vh;
+}
+
+form {
+    background-color: beige;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.field {
+    margin-top: 7px;
+}
+
+button {
+    padding: 7px 20px;
+    margin: 10px;
+}
+
+a {
+    margin-bottom: 23px;
+}
+
+.Nhaptext {
+    height: 18px;
+    margin-top: 4px;
+}
+
+.pw {
+    height: 18px;
+    margin-top: 4px;
+}
